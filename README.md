@@ -71,7 +71,7 @@ The simulation (.cc file) and the bash scripts contain multiple possible argumen
 * Using the bash script, it is necessary to run the following command
 
 ```bash
-bash run-simulation.sh -n "My_First_Simulation"
+bash run-simulation.sh -c "My_First_Simulation"
 ```
 
 The output files and generated plots will be saved in `./out/My_First_Simulation/`
@@ -82,7 +82,7 @@ The number of maximum simulations to be run in parallel is determined by the num
 To run use the following command:
 
 ```bash
-bash parallel.sh -n "MyFirstParallelRun"
+bash parallel.sh -c "MyFirstParallelRun"
 ```
 
 The output files for all the simulations will be saved in `./out/MyFirstParallelRun/`

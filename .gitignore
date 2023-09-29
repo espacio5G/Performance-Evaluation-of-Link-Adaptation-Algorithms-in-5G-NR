@@ -1,0 +1,5 @@
+# Visual Studio Code
+.vscode/**
+out/
+paths.cfg
+**/__pycache__/**

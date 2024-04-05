@@ -101,6 +101,13 @@ GitHub: [@SirCrocker](https://github.com/SirCrocker)
 **Diego Torreblanca**
 GitHub: [@diegolozo](https://github.com/diegolozo)
 
+**Jorge Ignacio Sandoval**
+GitHub: [@sandjorge](https://github.com/sandjorge)
+
+## Academic publication
+A. González, D. Torreblanca, J. I. Sandoval, M. Marín and C. Azurdia, "Performance Evaluation of Link Adaptation Algorithms in 5G NR," 2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON), Valdivia, Chile, 2023, pp. 1-6, doi: 10.1109/CHILECON60335.2023.10418696. keywords: {5G mobile communication;Heuristic algorithms;Software algorithms;Throughput;Delays;Behavioral sciences;Standards;Adaptive modulation and coding (AMC);block error rate (BLER);link adaptation;mmWave;ns-3 discrete-event network simulator;5G NR network simulations;open-source},
+(https://ieeexplore.ieee.org/document/10418696)
+
 ## Version History
 
 * 0.1
